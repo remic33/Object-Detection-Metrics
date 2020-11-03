@@ -38,6 +38,7 @@ def ValidateFormats(argFormat, argName, errors):
 
 
 # Validate mandatory args
+# TODO add validation %
 def ValidateMandatoryArgs(arg, argName, errors):
     if arg is None:
         errors.append('argument %s: required argument' % argName)
