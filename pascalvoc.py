@@ -9,7 +9,7 @@
 #        COPPE - Universidade Federal do Rio de Janeiro                                   #
 #        Last modification: Oct 9th 2018                                                 #
 ###########################################################################################
-
+# TO DO : add more display / comparaison of results
 import argparse
 import glob
 import os
